@@ -28,7 +28,7 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanankish&theme=github_dark&langs_count=10&layout=compact&exclude_repo=GRIP-tasks" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanankish&theme=github_dark&langs_count=8&layout=compact&exclude_repo=GRIP-tasks" />
 
 <br />
 
@@ -39,11 +39,15 @@
 <br />
 
 <a href="https://github.com/saravanankish/chatApp" style="margin-right: 10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saravanankish&repo=chatApp&theme=github_dark" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=saravanankish&repo=chatApp&theme=github_dark" />
 </a>
 
 <a href="https://github.com/saravanankish/kannan_cabs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saravanankish&repo=kannan_cabs&theme=github_dark" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=saravanankish&repo=kannan_cabs&theme=github_dark" />
+</a>
+
+<a href="https://github.com/saravanankish/fantasy-dress">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=saravanankish&repo=fantasy-dress&theme=github_dark" />
 </a>
 
 [website]:https://saravanan-k.herokuapp.com
