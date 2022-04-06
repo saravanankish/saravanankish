@@ -50,5 +50,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saravanankish&repo=fantasy-dress&theme=github_dark" />
 </a>
 
+<a align="center" href="https://github.com/saravanankish/2048-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saravanankish&repo=2048-game&theme=github_dark" />
+</a>
+
+<a align="center" href="https://github.com/saravanankish/mortal-combat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saravanankish&repo=mortal-combat&theme=github_dark" />
+</a>
+
 [website]:https://saravanan-k.herokuapp.com
 [linkedin]:https://www.linkedin.com/in/saravanan-k-224a4619b
