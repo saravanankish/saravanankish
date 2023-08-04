@@ -1,8 +1,10 @@
 ### Hi I'm Saravanan K
 
-- 📚 I'm currently a Student
-- 👀 I’m interested in Learning New Techhnologies
-- 🌱 I’m currently learning React and NodeJs
+- 👨🏻‍💻 Working professional 
+- <img align="center" width="22px" src="https://github.com/saravanankish/saravanankish/assets/53828581/dae4b388-68c2-49b5-90aa-9dac527a9ccc" alt="spring boot" /> Spring boot (Java) developer
+- <img align="center" width="22px" src="https://github.com/saravanankish/saravanankish/assets/53828581/b92edd6c-3bf7-4733-bd39-e512ebf3ff66" alt="spring boot" /> React developer
+- 👀 Motivated in Learning New Techhnologies
+
 
 ### 🔗 Connect With Me 
 
